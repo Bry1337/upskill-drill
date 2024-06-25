@@ -1,5 +1,5 @@
 ## Objective
-- Write a simple iOS/Android mobile app. There is no time limit to complete this test however your speed, quality, and creativity will be greatly considered in the assessment. 
+- Write a simple Android mobile app. There is no time limit to complete this test however your speed, quality, and creativity will be greatly considered in the assessment. 
 - The app will have 2 views: The Splash Screen, the Home Screen.
 
 ## Splash Screen
@@ -24,4 +24,4 @@
 
 ## Submission
 - You should fork this repository and send a `Pull Request` 
-- PR `Title` should be in this format `{Name}, [Android,iOS]`
+- PR `Title` should be in this format `{Name}, [Android]`
