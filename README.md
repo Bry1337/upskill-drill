@@ -6,7 +6,6 @@
 - The Splash Screen should display an `image` or `progress bar` for 2 sec before displaying the Home Screen.
 
 ## Home Screen
-
 - Clicking back button should close the app.
 - The Home Screen should display 2 buttons at the bottom of the screen which will be for List View and  Google Map View.
   - By List View, which means a view with a list.
@@ -22,3 +21,7 @@
   - Look for the airport in google
   - Remove this airport from favorite.
 - Only 1 item can be saved. An error message will be displayed.
+
+## Submission
+- You should fork this repository and send a `Pull Request` 
+- PR `Title` should be in this format `{Name}, [Android,iOS]`
